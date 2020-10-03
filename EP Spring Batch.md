@@ -18,7 +18,7 @@ CommandLineJobRunner
 
 **AS-IS EP 프로세스**
 
-1. 제휴 업체에 나갈 데이터 조회(full query) 후 파일 생성 진행
+1. 제휴 업체에 나갈 데이터 조회(full query - 30분) 후 파일 생성 진행
 2. 생성 파일 ftp 전송 진행
 3. 제휴 업체에게 url 제공
 
