@@ -55,4 +55,4 @@ CommandLineJobRunner
 
 **추가 개선 사항**
 - 네이버 뿐만 아니라 다른 전체 EP 통합 진행
-
+- you confirm select query 
